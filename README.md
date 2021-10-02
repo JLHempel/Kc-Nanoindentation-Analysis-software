@@ -1,5 +1,5 @@
 # Kc-Nanoindentation-Analysis-software
-Youtube video tutorial: 
+Youtube video tutorial: Coming soon!
 
 Main purpose: to extract the work from load-control nanoindentation load-unload curves from , fit a power-law to the curves in order to calculate the fracture toughness without imaging the indents.
 
